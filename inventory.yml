@@ -1,2 +1,4 @@
 all:
    children:
+       hosts:
+         node1
